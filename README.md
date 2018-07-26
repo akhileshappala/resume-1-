@@ -1,2 +1,2 @@
 # akhileshappala.github.io
-personal Website and blog
+Personal Website and Blog
